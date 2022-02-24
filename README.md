@@ -1,6 +1,5 @@
-# Data Science Portfolio
-A repository of projects I've completed so far.
+# DataquestProjects
+A collection of Guided Projects completed on the Dataquest platform
 
 # Contents
-* **30 Days of ML:** My first encounter with Data Science
 * **Guided Project: Exploring eBay Sales Data** 
