@@ -1,0 +1,174 @@
+Course,Mission,Mission url
+"Variables, Data Types, and Lists in Python",Python Programming,https://www.dataquest.io/m/605-python-programming/
+"Variables, Data Types, and Lists in Python",Programming Python Variables,https://www.dataquest.io/m/606-programming-python-variables/
+"Variables, Data Types, and Lists in Python","Python Data Types: Integers, Floats, Strings",https://www.dataquest.io/m/607-python-data-types-integers-floats-strings/
+"Variables, Data Types, and Lists in Python",Python Lists,https://www.dataquest.io/m/608-python-lists/
+For Loops and Conditional Statements in Python,Python For Loops,https://www.dataquest.io/m/609-python-for-loops/
+For Loops and Conditional Statements in Python,"Python If, Else, Elif Statements",https://www.dataquest.io/m/641-python-if-else-elif-statements/
+For Loops and Conditional Statements in Python,"Python If, Else, Elif Statements: Multiple Conditions",https://www.dataquest.io/m/642-python-if-else-elif-statements-multiple-conditions/
+For Loops and Conditional Statements in Python,Guided Project: Prison Break,https://www.dataquest.io/m/610-guided-project-prison-break/
+"Dictionaries, Frequency Tables, and Functions in Python",Python Dictionaries,https://www.dataquest.io/m/643-python-dictionaries/
+"Dictionaries, Frequency Tables, and Functions in Python",Python Dictionaries and Frequency Tables,https://www.dataquest.io/m/644-python-dictionaries-and-frequency-tables/
+"Dictionaries, Frequency Tables, and Functions in Python",Python Functions: Using Built-in Functions and Creating Functions,https://www.dataquest.io/m/645-python-functions-using-built-in-functions-and-creating-functions/
+"Dictionaries, Frequency Tables, and Functions in Python","Python Functions: Arguments, Parameters, and Debugging",https://www.dataquest.io/m/646-python-functions-arguments-parameters-and-debugging/
+Python Functions and Jupyter Notebook,Python Functions: Built-in Functions and Multiple Return Statements,https://www.dataquest.io/m/647-python-functions-built-in-functions-and-multiple-return-statements/
+Python Functions and Jupyter Notebook,Python Functions: Returning Multiple Variables and Function Scopes,https://www.dataquest.io/m/648-python-functions-returning-multiple-variables-and-function-scopes/
+Python Functions and Jupyter Notebook,Learn and Install Jupyter Notebook,https://www.dataquest.io/m/612-learn-and-install-jupyter-notebook/
+Python Functions and Jupyter Notebook,Guided Project: Profitable App Profiles for the App Store and Google Play Markets,https://www.dataquest.io/m/350-guided-project-profitable-app-profiles-for-the-app-store-and-google-play-markets/
+Python for Data Science Intermediate,Cleaning and Preparing Data in Python,https://www.dataquest.io/m/351-cleaning-and-preparing-data-in-python/
+Python for Data Science Intermediate,Python Data Analysis Basics,https://www.dataquest.io/m/331-python-data-analysis-basics/
+Python for Data Science Intermediate,Object-Oriented Python,https://www.dataquest.io/m/352-object-oriented-python/
+Python for Data Science Intermediate,Working with Dates and Times in Python,https://www.dataquest.io/m/353-working-with-dates-and-times-in-python/
+Python for Data Science Intermediate,Exploring Hacker News Posts,https://www.dataquest.io/m/356-guided-project-exploring-hacker-news-posts/
+Pandas and NumPy Fundamentals,Introduction to NumPy,https://www.dataquest.io/m/506-introduction-to-numpy/
+Pandas and NumPy Fundamentals,Boolean Indexing with NumPy,https://www.dataquest.io/m/290-boolean-indexing-with-numpy/
+Pandas and NumPy Fundamentals,Introduction to pandas,https://www.dataquest.io/m/291-introduction-to-pandas/
+Pandas and NumPy Fundamentals,Exploring Data With pandas: Fundamentals,https://www.dataquest.io/m/381-exploring-data-with-pandas-fundamentals/
+Pandas and NumPy Fundamentals,Exploring Data with Pandas Intermediate,https://www.dataquest.io/m/292-exploring-data-with-pandas-intermediate/
+Pandas and NumPy Fundamentals,Data Cleaning Basics,https://www.dataquest.io/m/293-data-cleaning-basics/
+Pandas and NumPy Fundamentals,Exploring Ebay Car Sales Data,https://www.dataquest.io/m/294-guided-project-exploring-ebay-car-sales-data/
+Data Visualization Fundamentals,"Bar Plots, Histograms, and Distributions",https://www.dataquest.io/m/522-bar-plots-histograms-and-distributions/
+Data Visualization Fundamentals,Line Charts,https://www.dataquest.io/m/142-line-charts/
+Data Visualization Fundamentals,Multiple Plots,https://www.dataquest.io/m/143-multiple-plots/
+Data Visualization Fundamentals,Histograms and Box Plots,https://www.dataquest.io/m/145-histograms-and-box-plots/
+Data Visualization Fundamentals,Guided Project: Visualizing Earnings Based On College Majors,https://www.dataquest.io/m/guided-project-visualizing-earnings-based-on-college-majors/
+Storytelling Through Data Visualization,Design for an Audience,https://www.dataquest.io/m/525-design-for-an-audience/
+Storytelling Through Data Visualization,Storytelling Data Visualization,https://www.dataquest.io/m/526-storytelling-data-visualization/
+Storytelling Through Data Visualization,Matplotlib Styles: FiveThirtyEight Case Study,https://www.dataquest.io/m/528-matplotlib-styles-fivethirtyeight-case-study/
+Storytelling Through Data Visualization,Guided Project: Storytelling Data Visualization on Exchange Rates,https://www.dataquest.io/m/guided-project-storytelling-data-visualization-on-exchange-rates/
+Storytelling Through Data Visualization,Gestalt Principles and Pre-Attentive Attributes,https://www.dataquest.io/m/gestalt-principles-and-pre-attentive-attributes/
+Python Data Cleaning and Analysis,Data Aggregation,https://www.dataquest.io/m/343-data-aggregation/
+Python Data Cleaning and Analysis,Combining Data With Pandas,https://www.dataquest.io/m/344-combining-data-with-pandas/
+Python Data Cleaning and Analysis,Transforming Data With Pandas,https://www.dataquest.io/m/345-transforming-data-with-pandas/
+Python Data Cleaning and Analysis,Working With Strings In Pandas,https://www.dataquest.io/m/346-working-with-strings-in-pandas/
+Python Data Cleaning and Analysis,Working With Missing And Duplicate Data,https://www.dataquest.io/m/347-working-with-missing-and-duplicate-data/
+Python Data Cleaning and Analysis,Clean And Analyze Employee Exit Surveys,https://www.dataquest.io/m/348-guided-project-clean-and-analyze-employee-exit-surveys/
+Data Cleaning in Python: Advanced,Regular Expressions Basics,https://www.dataquest.io/m/354-regular-expression-basics/
+Data Cleaning in Python: Advanced,Advanced Regular Expressions,https://www.dataquest.io/m/369-advanced-regular-expressions/
+Data Cleaning in Python: Advanced,List Comprehensions and Lambda Functions,https://www.dataquest.io/m/355-list-comprehensions-and-lambda-functions/
+Data Cleaning in Python: Advanced,Working with Missing Data,https://www.dataquest.io/m/370-working-with-missing-data/
+Data Cleaning Project Walkthrough,Data Cleaning Walkthrough,https://www.dataquest.io/m/136-data-cleaning-walkthrough/
+Data Cleaning Project Walkthrough,Data Cleaning Walkthrough: Combining the Data,https://www.dataquest.io/m/137-data-cleaning-walkthrough-combining-the-data/
+Data Cleaning Project Walkthrough,Data Cleaning Walkthrough: Analyzing and Visualizing the Data,https://www.dataquest.io/m/138-data-cleaning-walkthrough-analyzing-and-visualizing-the-data/
+Data Cleaning Project Walkthrough,Analyzing NYC High School Data,https://www.dataquest.io/m/217-guided-project-analyzing-nyc-high-school-data/
+Data Cleaning Project Walkthrough,Challenge: Cleaning Data,https://www.dataquest.io/m/102-challenge-cleaning-data/
+Data Cleaning Project Walkthrough,Star Wars Survey,https://www.dataquest.io/m/201-guided-project-star-wars-survey/
+Elements of the Command Line,Introduction to the Command Line,https://www.dataquest.io/m/383-introduction-to-the-command-line/
+Elements of the Command Line,The Filesystem,https://www.dataquest.io/m/384-the-filesystem/
+Elements of the Command Line,Modifying the Filesystem,https://www.dataquest.io/m/385-modifying-the-filesystem/
+Elements of the Command Line,Glob Patterns and Wildcards,https://www.dataquest.io/m/386-glob-patterns-and-wildcards/
+Elements of the Command Line,Users and Permissions,https://www.dataquest.io/m/387-users-and-permissions/
+Text Processing in the Command Line,Getting Help and Reading Documentation,https://www.dataquest.io/m/388-getting-help-and-reading-documentation/
+Text Processing in the Command Line,File Inspection,https://www.dataquest.io/m/389-file-inspection/
+Text Processing in the Command Line,Text Processing,https://www.dataquest.io/m/390-text-processing/
+Text Processing in the Command Line,Redirection and Pipelines,https://www.dataquest.io/m/391-redirection-and-pipelines/
+Text Processing in the Command Line,Standard Streams and File Descriptors,https://www.dataquest.io/m/392-standard-streams-and-file-descriptors/
+SQL Fundamentals,Introduction to SQL and Databases,https://www.dataquest.io/course/funds-sql-i/
+SQL Fundamentals,Filtering and Sorting Data in SQL,https://www.dataquest.io/course/funds-sql-ii/
+SQL Fundamentals,Summarizing Data in SQL,https://www.dataquest.io/course/sql-summary/
+SQL Fundamentals,Combining Tables in SQL,https://www.dataquest.io/course/combining-tables-in-sql/
+SQL Fundamentals,SQL Subqueries,https://www.dataquest.io/course/sql-subqueries/
+Intermediate SQL for Data Analysis,Joining Data in SQL,https://www.dataquest.io/m/179-joining-data-in-sql/
+Intermediate SQL for Data Analysis,Intermediate Joins in SQL,https://www.dataquest.io/m/189-intermediate-joins-in-sql/
+Intermediate SQL for Data Analysis,Building and Organizing Complex Queries,https://www.dataquest.io/m/190-building-and-organizing-complex-queries/
+Intermediate SQL for Data Analysis,Answering Business Questions using SQL,https://www.dataquest.io/m/191-guided-project-answering-business-questions-using-sql/
+Intermediate SQL for Data Analysis,Table Relations and Normalization,https://www.dataquest.io/m/192-table-relations-and-normalization/
+Intermediate SQL for Data Analysis,Designing and Creating a Database,https://www.dataquest.io/m/193-guided-project-designing-and-creating-a-database/
+APIs and Web Scraping in Python,Working with APIs,https://www.dataquest.io/m/52-working-with-apis/
+APIs and Web Scraping in Python,Intermediate APIs,https://www.dataquest.io/m/53-intermediate-apis/
+APIs and Web Scraping in Python,Working with the Reddit API,https://www.dataquest.io/m/110-challenge-working-with-the-reddit-api/
+APIs and Web Scraping in Python,Web Scraping,https://www.dataquest.io/m/54-web-scraping/
+Statistics Fundamentals,Sampling,https://www.dataquest.io/m/283-sampling/
+Statistics Fundamentals,Variables in Statistics,https://www.dataquest.io/m/284-variables-in-statistics/
+Statistics Fundamentals,Frequency Distributions,https://www.dataquest.io/m/285-frequency-distributions/
+Statistics Fundamentals,Visualizing Frequency Distributions,https://www.dataquest.io/m/286-visualizing-frequency-distributions/
+Statistics Fundamentals,Comparing Frequency Distributions,https://www.dataquest.io/m/287-comparing-frequency-distributions/
+Statistics Fundamentals,Investigating Fandango Movie Ratings,https://www.dataquest.io/m/288-guided-project-investigating-fandango-movie-ratings/
+Intermediate Statistics: Averages and Variability,The Mean,https://www.dataquest.io/m/305-the-mean/
+Intermediate Statistics: Averages and Variability,The Weighted Mean and the Median,https://www.dataquest.io/m/306-the-weighted-mean-and-the-median/
+Intermediate Statistics: Averages and Variability,The Mode,https://www.dataquest.io/m/307-the-mode/
+Intermediate Statistics: Averages and Variability,Measures of Variability,https://www.dataquest.io/m/308-measures-of-variability/
+Intermediate Statistics: Averages and Variability,Z-scores,https://www.dataquest.io/m/309-z-scores/
+Intermediate Statistics: Averages and Variability,Finding the Best Markets to Advertise In,https://www.dataquest.io/m/310-guided-project-finding-the-best-markets-to-advertise-in/
+Probability: Fundamentals,Estimating Probabilities,https://www.dataquest.io/m/377-estimating-probabilities/
+Probability: Fundamentals,Probability Rules,https://www.dataquest.io/m/378-probability-rules/
+Probability: Fundamentals,Solving Complex Probability Problems,https://www.dataquest.io/m/379-solving-complex-probability-problems/
+Probability: Fundamentals,Permutations and Combinations,https://www.dataquest.io/m/380-permutations-and-combinations/
+Probability: Fundamentals,Mobile App for Lottery Addiction,https://www.dataquest.io/m/382-mobile-app-for-lottery-addiction/
+Conditional Probability,Conditional Probability: Fundamentals,https://www.dataquest.io/m/429-conditional-probability-fundamentals/
+Conditional Probability,Conditional Probability: Intermediate,https://www.dataquest.io/m/430-conditional-probability-intermediate/
+Conditional Probability,Bayes Theorem,https://www.dataquest.io/m/431-bayes-theorem/
+Conditional Probability,The Naive Bayes Algorithm,https://www.dataquest.io/m/432-the-naive-bayes-algorithm/
+Conditional Probability,Building A Spam Filter With Naive Bayes,https://www.dataquest.io/m/433-guided-project-building-a-spam-filter-with-naive-bayes/
+Hypothesis Testing: Fundamentals,Significance Testing,https://www.dataquest.io/m/106-significance-testing/
+Hypothesis Testing: Fundamentals,Chi-squared tests,https://www.dataquest.io/m/99-chi-squared-tests/
+Hypothesis Testing: Fundamentals,Multi category chi-squared tests,https://www.dataquest.io/m/100-multi-category-chi-squared-tests/
+Hypothesis Testing: Fundamentals,Winning Jeopardy,https://www.dataquest.io/m/210-guided-project-winning-jeopardy/
+Machine Learning Fundamentals,Introduction to K-Nearest Neighbors,https://www.dataquest.io/m/139-introduction-to-k-nearest-neighbors/
+Machine Learning Fundamentals,Evaluating Model Performance,https://www.dataquest.io/m/156-evaluating-model-performance/
+Machine Learning Fundamentals,Multivariate K-Nearest Neighbors,https://www.dataquest.io/m/140-multivariate-k-nearest-neighbors/
+Machine Learning Fundamentals,Hyperparameter Optimization,https://www.dataquest.io/m/141-hyperparameter-optimization/
+Machine Learning Fundamentals,Cross Validation,https://www.dataquest.io/m/154-cross-validation/
+Machine Learning Fundamentals,Predicting Car Prices,https://www.dataquest.io/m/155-guided-project-predicting-car-prices/
+Calculus For Machine Learning,Understanding Linear and Nonlinear Functions,https://www.dataquest.io/m/157-understanding-linear-and-nonlinear-functions/
+Calculus For Machine Learning,Understanding Limits,https://www.dataquest.io/m/158-understanding-limits/
+Calculus For Machine Learning,Finding Extreme Points,https://www.dataquest.io/m/159-finding-extreme-points/
+Linear Algebra For Machine Learning,Linear Systems,https://www.dataquest.io/m/160-linear-systems/
+Linear Algebra For Machine Learning,Vectors,https://www.dataquest.io/m/161-vectors/
+Linear Algebra For Machine Learning,Matrix Algebra,https://www.dataquest.io/m/162-matrix-algebra/
+Linear Algebra For Machine Learning,Solution Sets,https://www.dataquest.io/m/178-solution-sets/
+Linear Regression For Machine Learning,The Linear Regression Model,https://www.dataquest.io/m/235-the-linear-regression-model/
+Linear Regression For Machine Learning,Feature Selection,https://www.dataquest.io/m/236-feature-selection/
+Linear Regression For Machine Learning,Gradient Descent,https://www.dataquest.io/m/237-gradient-descent/
+Linear Regression For Machine Learning,Ordinary Least Squares,https://www.dataquest.io/m/238-ordinary-least-squares/
+Linear Regression For Machine Learning,Processing And Transforming Features,https://www.dataquest.io/m/239-processing-and-transforming-features/
+Linear Regression For Machine Learning,Predicting House Sale Prices,https://www.dataquest.io/m/240-guided-project-predicting-house-sale-prices/
+Machine Learning in Python: Intermediate,Logistic regression,https://www.dataquest.io/m/20-logistic-regression/
+Machine Learning in Python: Intermediate,Introduction to evaluating binary classifiers,https://www.dataquest.io/m/22-introduction-to-evaluating-binary-classifiers/
+Machine Learning in Python: Intermediate,Multiclass classification,https://www.dataquest.io/m/24-multiclass-classification/
+Machine Learning in Python: Intermediate,Overfitting,https://www.dataquest.io/m/132-overfitting/
+Machine Learning in Python: Intermediate,Clustering Basics,https://www.dataquest.io/m/26-clustering-basics/
+Machine Learning in Python: Intermediate,K-means clustering,https://www.dataquest.io/m/40-k-means-clustering/
+Machine Learning in Python: Intermediate,Predicting the stock market,https://www.dataquest.io/m/65-guided-project-predicting-the-stock-market/
+Decision Trees,Introduction to Decision Trees,https://www.dataquest.io/m/89-introduction-to-decision-trees/
+Decision Trees,Building a Decision Tree,https://www.dataquest.io/m/90-building-a-decision-tree/
+Decision Trees,Applying Decision Trees,https://www.dataquest.io/m/92-applying-decision-trees/
+Decision Trees,Introduction to Random Forests,https://www.dataquest.io/m/94-introduction-to-random-forests/
+Decision Trees,Predicting Bike Rentals,https://www.dataquest.io/m/213-guided-project-predicting-bike-rentals/
+Deep Learning Fundamentals,Representing Neural Networks,https://www.dataquest.io/m/241-representing-neural-networks/
+Deep Learning Fundamentals,Nonlinear Activation Functions,https://www.dataquest.io/m/242-nonlinear-activation-functions/
+Deep Learning Fundamentals,Hidden Layers,https://www.dataquest.io/m/243-hidden-layers/
+Deep Learning Fundamentals,Building A Handwritten Digits Classifier,https://www.dataquest.io/m/244-guided-project-building-a-handwritten-digits-classifier/
+Machine Learning Project,Machine Learning Project Walkthrough: Data Cleaning,https://www.dataquest.io/m/133-machine-learning-project-walkthrough-data-cleaning/
+Machine Learning Project,Machine Learning Project Walkthrough: Preparing the features,https://www.dataquest.io/m/134-machine-learning-project-walkthrough-preparing-the-features/
+Machine Learning Project,Machine Learning Project Walkthrough: Making Predictions,https://www.dataquest.io/m/135-machine-learning-project-walkthrough-making-predictions/
+Kaggle Fundamentals,Getting Started with Kaggle,https://www.dataquest.io/m/185-getting-started-with-kaggle/
+Kaggle Fundamentals,"Feature Preparation, Selection, and Engineering",https://www.dataquest.io/m/186-feature-preparation-selection-and-engineering/
+Kaggle Fundamentals,Model Selection and Tuning,https://www.dataquest.io/m/187-model-selection-and-tuning/
+Kaggle Fundamentals,Creating a Kaggle Workflow,https://www.dataquest.io/m/188-guided-project-creating-a-kaggle-workflow/
+Functions: Advanced,Best Practices for Writing Functions,https://www.dataquest.io/m/411-best-practices-for-writing-functions/
+Functions: Advanced,Context Managers,https://www.dataquest.io/m/412-context-managers/
+Functions: Advanced,Introduction to Decorators,https://www.dataquest.io/m/413-introduction-to-decorators/
+Functions: Advanced,Decorators: Advanced,https://www.dataquest.io/m/414-decorators-advanced/
+Command Line Intermediate,Working with Programs,https://www.dataquest.io/m/96-working-with-programs/
+Command Line Intermediate,Command Line Python Scripting,https://www.dataquest.io/m/97-command-line-python-scripting/
+Command Line Intermediate,Challenge: Working with the Command Line,https://www.dataquest.io/m/112-challenge-working-with-the-command-line/
+Command Line Intermediate,Working with Jupyter console,https://www.dataquest.io/m/68-working-with-jupyter-console/
+Command Line Intermediate,Piping and redirecting output,https://www.dataquest.io/m/69-piping-and-redirecting-output/
+Command Line Intermediate,Challenge: Data Munging Using The Command Line,https://www.dataquest.io/m/122-challenge-data-munging-using-the-command-line/
+Command Line Intermediate,Data Cleaning and Exploration Using Csvkit,https://www.dataquest.io/m/126-data-cleaning-and-exploration-using-csvkit/
+Data Analysis in Business,Fuzzy Language in Data Science,https://www.dataquest.io/m/466-fuzzy-language-in-data-science/
+Data Analysis in Business,Communicating Results,https://www.dataquest.io/m/467-communicating-results/
+Data Analysis in Business,Business Metrics,https://www.dataquest.io/m/468-business-metrics/
+Data Analysis in Business,Popular Data Science Questions,https://www.dataquest.io/m/469-guided-project-popular-data-science-questions/
+Git and Version Control,Introduction to Git,https://www.dataquest.io/m/98-introduction-to-git/
+Git and Version Control,Git Remotes,https://www.dataquest.io/m/119-git-remotes/
+Git and Version Control,Git Branches,https://www.dataquest.io/m/120-git-branches/
+Git and Version Control,Merge Conflicts,https://www.dataquest.io/m/121-merge-conflicts/
+Git and Version Control,Git Installation and GitHub Integration,https://www.dataquest.io/m/128-project-git-installation-and-github-integration/
+Spark and Map-Reduce,Introduction to Spark,https://www.dataquest.io/m/60-introduction-to-spark/
+Spark and Map-Reduce,Project: Spark Installation and Jupyter Notebook Integration,https://www.dataquest.io/m/127-project-spark-installation-and-jupyter-notebook-integration/
+Spark and Map-Reduce,Transformations and Actions,https://www.dataquest.io/m/61-transformations-and-actions/
+Spark and Map-Reduce,Challenge: Transforming Hamlet into a Data Set,https://www.dataquest.io/m/62-challenge-transforming-hamlet-into-a-data-set/
+Spark and Map-Reduce,Spark DataFrames,https://www.dataquest.io/m/91-spark-dataframes/
+Spark and Map-Reduce,Spark SQL,https://www.dataquest.io/m/93-spark-sql/
